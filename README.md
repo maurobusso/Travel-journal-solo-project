@@ -1,6 +1,6 @@
 # Travel Journal
 
-This project was inspired by the Scrimba react course as a final solo project at the end of the second module of the course. It was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It is a static page that display different location with immages and a brief description and a link to the google map location.
+This project was inspired by the Scrimba react course as a final solo project at the end of the second module of the course. It is a static page that display different location with immages and a brief description and a link to the google map location.
 
 <img width="700px" heigth="900" src="https://github.com/maurobusso/Travel-journal-solo-project/blob/main/reactProject.png">
 
@@ -20,7 +20,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Lessons Learned: 
 
-Thanks to this project I was able to improve and put into practice: array manipulation, Boolean, conditionals, objects. The easy way to create randomization with the Math. method. I was also able to integrate a responsive design with CSS.
+Thanks to this project I was able to learn and practice the basics of React to create and render react components. I first learnt about the importance of props and the benefits in creating more composable code with components passing different data into, and map over it in order to create the page we want. 
 
 
 
