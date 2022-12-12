@@ -18,3 +18,6 @@ export default function Journey(props){
         </div>
     )
 }
+
+
+Travel-journal-solo-project
