@@ -11,7 +11,7 @@ export default  [
     },
     {
         id: 1,
-        title: "Mount Fuji",
+        title: "Tenerife",
         location: "Japan",
         googleMapLink: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
         startDate: "12 Jan 2021",
