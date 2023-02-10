@@ -1,6 +1,6 @@
 # Travel Journal
 
-This project was inspired by the Scrimba react course as a final solo project at the end of the second module of the course. It is a static page that display different location with immages and a brief description and a link to the google map location.
+This project was inspired by the Scrimba react course as a final solo project at the end of the second module of the course. It is a static page that display different location with immages, a brief description and a link to the google map location.
 
 <img width="700px" heigth="900" src="https://github.com/maurobusso/Travel-journal-solo-project/blob/main/reactProject.png">
 
